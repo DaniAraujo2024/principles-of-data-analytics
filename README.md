@@ -14,6 +14,6 @@ This is an example repository.
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
 
-As you know, from the videos, we can use [Gemini to learn about git](https://gemini.google.com/)
+As you know, from the videos, we can use [Gemini to learn about git](https://gemini.google.com/).
 
 We are at [ATU](https://www.atu.ie/)!
