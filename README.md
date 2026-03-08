@@ -1,1 +1,13 @@
-# principles-of-data-analytics
+# Principles of Data Analytics
+
+This is an example repository.
+
+## Instalation
+
+1. Install git.
+2. Clone this repository.
+3. Enjoy the repository.
+
+## Environment
+
+I recommend using Visual Studio Code and Anaconda to run the notebook.
