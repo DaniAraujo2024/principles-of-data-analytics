@@ -11,3 +11,5 @@ This is an example repository.
 ## Environment
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
+
+https://gemini.google.com/
