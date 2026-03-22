@@ -2,7 +2,20 @@
 
 [This README mostly demonstrates the use of Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-This is an example repository.
+This is my repository in construction.
+**This text is bold.**
+*This text is italic.*
+
+> I am organized.
+>
+> *Said Danielle Araujo*
+
+Here is some Python code.
+
+```python
+a = 1
+print(a)
+```
 
 ## Instalation
 
