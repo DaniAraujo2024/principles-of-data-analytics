@@ -1,5 +1,12 @@
 # Principles of Data Analytics
 
+This repository contains my work for the Principles of Data Analytics module delivered by [ATU](https://atu.ie)).
+Here you will find:
+
+1. Installation instructions
+2. Dependecies
+3. About the solutions
+
 [This README mostly demonstrates the use of Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 This is my repository in construction.
